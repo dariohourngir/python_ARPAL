@@ -1,6 +1,6 @@
 # %%
 import numpy as np
-
+# Commento Dario
 
 # %%
 a = np.array([10, 20.1, 30, 40])
